@@ -1,6 +1,6 @@
 # Movies-explorer-fronted
 
-Фронтед проекта Movies-Explorer
+Верстка и JSX проекта Movies-Explorer
 
 ## Директории
 
